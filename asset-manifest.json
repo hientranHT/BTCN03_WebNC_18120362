@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BTCN03_WebNC_18120362/static/css/main.a617e044.chunk.css",
+    "main.js": "/BTCN03_WebNC_18120362/static/js/main.0ebfb849.chunk.js",
+    "main.js.map": "/BTCN03_WebNC_18120362/static/js/main.0ebfb849.chunk.js.map",
+    "runtime-main.js": "/BTCN03_WebNC_18120362/static/js/runtime-main.9a53e6b2.js",
+    "runtime-main.js.map": "/BTCN03_WebNC_18120362/static/js/runtime-main.9a53e6b2.js.map",
+    "static/js/2.c4240c28.chunk.js": "/BTCN03_WebNC_18120362/static/js/2.c4240c28.chunk.js",
+    "static/js/2.c4240c28.chunk.js.map": "/BTCN03_WebNC_18120362/static/js/2.c4240c28.chunk.js.map",
+    "static/js/3.6a2c985e.chunk.js": "/BTCN03_WebNC_18120362/static/js/3.6a2c985e.chunk.js",
+    "static/js/3.6a2c985e.chunk.js.map": "/BTCN03_WebNC_18120362/static/js/3.6a2c985e.chunk.js.map",
+    "index.html": "/BTCN03_WebNC_18120362/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/BTCN03_WebNC_18120362/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c4240c28.chunk.js.LICENSE.txt": "/BTCN03_WebNC_18120362/static/js/2.c4240c28.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BTCN03_WebNC_18120362/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a53e6b2.js",
+    "static/js/2.c4240c28.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0ebfb849.chunk.js"
+  ]
+}
