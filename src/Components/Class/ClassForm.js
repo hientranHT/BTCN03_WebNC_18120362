@@ -23,8 +23,13 @@ export default (props)=>{
             ClassroomName:data.ClassroomName,
             ClassroomDes:data.ClassroomDes
         });
-        refreshPage();
+        delay(1000).then(() => refreshPage());
     }
+
+    function delay(time) {
+        return new Promise(resolve => setTimeout(resolve, time));
+      }
+      
 
     function handle(e){
         const newdata={...data}
